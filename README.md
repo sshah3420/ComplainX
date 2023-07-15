@@ -16,6 +16,8 @@
 [![DOI](https://zenodo.org/badge/537628861.svg)](https://zenodo.org/badge/latestdoi/537628861)
 
 ## Introduction
+An updated Version of this project can be found at: https://github.com/dhruvpatel-9/WolfComplain
+
 This repository contains source code for Project 1 which was created for CSC 510 course of NC State University Fall 22. 
 As international students, the US education system was very new for us and it took time getting used to it. 
 Here at NC State each faculty has their own set of rules they use for teaching and grading students.
